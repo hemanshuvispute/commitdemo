@@ -10,6 +10,7 @@ class CodeTest {
 	void test1() {
 		int res=new Code1().divide(10, 5);
 		assertEquals(2, res);
+		
 	}
 	@Test
 	void test2() {
